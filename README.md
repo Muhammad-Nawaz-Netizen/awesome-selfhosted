@@ -1,6 +1,46 @@
 # Awesome-Selfhosted
 
-[![Awesome](_static/awesome.png)](https://github.com/sindresorhus/awesome) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://img.shields.io/liberapay/goal/awesome-selfhosted?logo=liberapay)](https://liberapay.com/awesome-selfhosted/)
+[![Awesome](_static/awesome.png)](https://github.co# Hey, I'm Nawaz 👋
+
+🎓 Engineering Student  
+⚙️ Exploring Embedded Systems & Electronics  
+🚀 Interested in Technology & Entrepreneurship  
+💻 Learning by building real-world projects
+
+## 🛠️ Currently Exploring
+
+- C / C++
+- Python
+- ESP32 & Embedded Systems
+- Sensors & IoT
+- Git & GitHub
+- Electronics & Prototyping
+
+## 🚀 Projects
+
+### 🛰️ CanSat
+A small satellite-inspired project using:
+- ESP32
+- BME280
+- LoRa SX1278
+- MicroSD
+- Telemetry & data logging
+
+### 📚 Learning Projects
+Small experiments and projects created while learning
+programming, electronics and engineering.
+
+## 🎯 Goals
+
+- Build practical engineering projects
+- Improve programming skills
+- Learn embedded systems
+- Explore entrepreneurship
+- Create useful technology
+
+## 📫 Connect
+
+Feel free to explore my repositories and follow my journey.m/sindresorhus/awesome) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://img.shields.io/liberapay/goal/awesome-selfhosted?logo=liberapay)](https://liberapay.com/awesome-selfhosted/)
 
 Self-hosting is the practice of hosting and managing applications on your own server(s) instead of consuming from [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) providers.
 
